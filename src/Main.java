@@ -7,4 +7,8 @@ public class Main {
     static void function1(){
         System.out.println("Created this first function");
     }
+
+    static void moxFunction(){
+        System.out.println("Created this function by moksh");
+    }
 }
