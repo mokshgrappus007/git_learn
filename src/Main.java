@@ -11,4 +11,8 @@ public class Main {
     static void moxFunction(){
         System.out.println("Created this function by moksh");
     }
+
+    static void vikasFunction(){
+        System.out.println("Created this function by vikas");
+    }
 }
