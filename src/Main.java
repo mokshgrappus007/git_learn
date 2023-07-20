@@ -10,5 +10,6 @@ public class Main {
 
     static void moxFunction(){
         System.out.println("Created this function by moksh");
+        System.out.println("Created this function by moksh another change");
     }
 }
