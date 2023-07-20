@@ -14,5 +14,6 @@ public class Main {
 
     static void vikasFunction(){
         System.out.println("Created this function by vikas");
+        System.out.println("Created another change");
     }
 }
